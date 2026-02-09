@@ -24,7 +24,7 @@ O objetivo principal é **consolidar fundamentos de desenvolvimento backend** ut
 - 🌱 **Spring Boot**
 - 📦 **Maven**
 - 🗄️ **Spring Data JPA**
-- 💾 **Banco de dados configurável** (ex: H2, MySQL, PostgreSQL)
+- 💾 **Banco de dados H2**
 - 🔗 **API REST**
 
 ---
